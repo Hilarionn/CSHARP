@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\": {}
+    "C:\\Users\\Micro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.hilarion\\CSHARP\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Micro\\CSHARP\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\HelloWorld\\obj\\",
+      "projectPath": "C:\\Users\\Micro\\CSHARP\\HelloWorld\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Micro\\CSHARP\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabriel.hilarion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
