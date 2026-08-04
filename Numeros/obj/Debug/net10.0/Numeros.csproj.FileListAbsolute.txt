@@ -12,3 +12,4 @@ C:\Users\gabriel.hilarion\CSHARP\Numeros\obj\Debug\net10.0\refint\Numeros.dll
 C:\Users\gabriel.hilarion\CSHARP\Numeros\obj\Debug\net10.0\Numeros.pdb
 C:\Users\gabriel.hilarion\CSHARP\Numeros\obj\Debug\net10.0\Numeros.genruntimeconfig.cache
 C:\Users\gabriel.hilarion\CSHARP\Numeros\obj\Debug\net10.0\ref\Numeros.dll
+C:\Users\gabriel.hilarion\CSHARP\Numeros\obj\Debug\net10.0\Numeros.sourcelink.json
