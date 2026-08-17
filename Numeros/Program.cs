@@ -88,4 +88,7 @@ Console.WriteLine(d);
 
 double max = double.MaxValue;
 double min = double.MinValue;
-Console.WriteLine($"The range of double is {min} to {max}");
+Console.WriteLine($"O alcance da 'Double' é de {min} até {max}");
+
+double terço = 1.0 / 3.0;
+Console.WriteLine(terço);  // 0.3 é 3/10 e não exatamente o mesmo que 1/3. 0.33 é 33/100, esse valor está mais próximo de 1/3 mas ainda não é exato. Não importa quantas casas decimais sejam adicionadas, um erro de arredondamento permanece
