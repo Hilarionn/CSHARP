@@ -1,7 +1,7 @@
 ﻿//TrabalhandoComInteiros();
 //OrdemDePrecedencia();
 // Quocientes();
-
+//usandoDouble();
 
 void OrdemDePrecedencia(){
 
@@ -76,6 +76,11 @@ Console.WriteLine($"Um exemplo de overflow: {what}"); // Observe que a resposta 
 
 }
 
+void usandoDouble()
+{
+    
+
+
 double z = 5;
 Console.WriteLine(z - 1.2);
 
@@ -91,4 +96,7 @@ double min = double.MinValue;
 Console.WriteLine($"O alcance da 'Double' é de {min} até {max}");
 
 double terço = 1.0 / 3.0;
-Console.WriteLine(terço);  // 0.3 é 3/10 e não exatamente o mesmo que 1/3. 0.33 é 33/100, esse valor está mais próximo de 1/3 mas ainda não é exato. Não importa quantas casas decimais sejam adicionadas, um erro de arredondamento permanece
+Console.WriteLine(terço);  // 0.3 é 3/10 e não exatamente o mesmo que 1/3. 0.33 é 33/100
+//  esse valor está mais próximo de 1/3 mas ainda não é exato. Não importa quantas casas decimais sejam adicionadas, um erro de arredondamento permanece
+}
+
