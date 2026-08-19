@@ -1,7 +1,8 @@
 ﻿//TrabalhandoComInteiros();
 //OrdemDePrecedencia();
-// Quocientes();
-//usandoDouble();
+//Quocientes();
+//TrabalhandoComDouble();
+TrabalhandoComDecimais();
 
 void OrdemDePrecedencia(){
 
@@ -76,7 +77,7 @@ Console.WriteLine($"Um exemplo de overflow: {what}"); // Observe que a resposta 
 
 }
 
-void usandoDouble()
+void TrabalhandoComDouble()
 {
     
 
@@ -100,3 +101,21 @@ Console.WriteLine(terço);  // 0.3 é 3/10 e não exatamente o mesmo que 1/3. 0.
 //  esse valor está mais próximo de 1/3 mas ainda não é exato. Não importa quantas casas decimais sejam adicionadas, um erro de arredondamento permanece
 }
 
+void TrabalhandoComDecimais() // O decimal trabalha com mais precisão do que o Double, mas tem um intervalo menor
+{
+decimal min = decimal.MinValue;
+decimal max = decimal.MaxValue;
+Console.WriteLine($"O alcance da decimal é de {min} até {max}");
+
+double a = 1.0;
+double b = 3.0;
+Console.WriteLine(a / b);
+
+decimal c = 1.0M;
+decimal d = 3.0M;
+Console.WriteLine(c / d);
+
+
+
+    
+}
