@@ -2,7 +2,9 @@
 //OrdemDePrecedencia();
 //Quocientes();
 //TrabalhandoComDouble();
-TrabalhandoComDecimais();
+using System.IO.Pipes;
+
+//TrabalhandoComDecimais();
 
 void OrdemDePrecedencia(){
 
@@ -114,8 +116,22 @@ Console.WriteLine(a / b);
 decimal c = 1.0M;
 decimal d = 3.0M;
 Console.WriteLine(c / d);
-
-
-
-    
+  
 }
+
+
+
+/*Desafio
+
+Agora que você conhece os diferentes tipos numéricos, escreva o código que calcula a área de um círculo cujo raio é de 2,50 centímetros.
+Lembre-se de que a área de um círculo é o raio quadrado multiplicado por PI. Uma dica: o runtime contém uma constante para PI, Math.PI que você pode usar para esse valor.
+Math.PI, como todas as constantes declaradas no System.Math namespace, é um double valor. 
+or esse motivo, você deve usar os valores de double em vez de decimal para esse desafio.
+Você deve obter uma resposta entre 19 e 20.*/
+
+double raioCirculo = 2.5;
+// Área = PI.r.2
+double areaCirculo = Math.PI * (raioCirculo * raioCirculo);
+Console.WriteLine($"Sem arredondamento: {areaCirculo}");
+areaCirculo = Math.Round(areaCirculo);
+Console.WriteLine("$Com arredontamento: {areaCirculo}");
