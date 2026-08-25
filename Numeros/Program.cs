@@ -1,10 +1,11 @@
-﻿//TrabalhandoComInteiros();
+﻿using System.IO.Pipes;
+//TrabalhandoComInteiros();
 //OrdemDePrecedencia();
 //Quocientes();
 //TrabalhandoComDouble();
-using System.IO.Pipes;
-
 //TrabalhandoComDecimais();
+//Desafio();
+
 
 void OrdemDePrecedencia(){
 
@@ -120,7 +121,7 @@ Console.WriteLine(c / d);
 }
 
 
-
+void Desafio(){
 /*Desafio
 
 Agora que você conhece os diferentes tipos numéricos, escreva o código que calcula a área de um círculo cujo raio é de 2,50 centímetros.
@@ -134,4 +135,5 @@ double raioCirculo = 2.5;
 double areaCirculo = Math.PI * (raioCirculo * raioCirculo);
 Console.WriteLine($"Sem arredondamento: {areaCirculo}");
 areaCirculo = Math.Round(areaCirculo);
-Console.WriteLine("$Com arredontamento: {areaCirculo}");
+Console.WriteLine($"Com arredontamento: {areaCirculo}");
+}
