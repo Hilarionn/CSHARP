@@ -25,5 +25,7 @@ var pessoa = (PrimeiroNome: "", UltimoNome: "");
 var pedido = (Produto: "Palheta de guitarra", style: "Triangular", quantidade: 500, PrecoUnitario: 0.10m);
 Console.WriteLine(pedido.PrecoUnitario);
 
+Point pt3 = new Point(1,1);
+var pt4 = pt3 with {Y = 10};
 
 public record Point(int X, int Y);
