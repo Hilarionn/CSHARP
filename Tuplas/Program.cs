@@ -14,3 +14,8 @@ Console.WriteLine($"O ponto agora está em {pt}");
 
 var pt2 = pt with {Y = 10};
 Console.WriteLine($"O ponto 'pt2' está em {pt2}");
+
+var subscript = (A: 0, B: 0);
+Console.WriteLine(subscript);
+subscript = pt;
+Console.WriteLine(subscript);
