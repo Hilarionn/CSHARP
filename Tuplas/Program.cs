@@ -27,5 +27,11 @@ Console.WriteLine(pedido.PrecoUnitario);
 
 Point pt3 = new Point(1,1);
 var pt4 = pt3 with {Y = 10};
+Console.WriteLine($"Os dois pontos são {pt3} e {pt4}");
 
-public record Point(int X, int Y);
+double slopeResult = pt4.Slope();
+Console.WriteLine($"A inclinação de {pt4} é {slopeResult}");
+public record Point(int X, int Y)
+{
+    public double Slope() => (double)Y / (double)X;
+}
