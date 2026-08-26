@@ -1,0 +1,15 @@
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\bin\Debug\net10.0\branches-loops.exe
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\bin\Debug\net10.0\branches-loops.deps.json
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\bin\Debug\net10.0\branches-loops.runtimeconfig.json
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\bin\Debug\net10.0\branches-loops.dll
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\bin\Debug\net10.0\branches-loops.pdb
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.AssemblyInfoInputs.cache
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.AssemblyInfo.cs
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.sourcelink.json
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.dll
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\refint\branches-loops.dll
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.pdb
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\branches-loops.genruntimeconfig.cache
+C:\Users\gabriel.hilarion\CSHARP\branches-loops\obj\Debug\net10.0\ref\branches-loops.dll
