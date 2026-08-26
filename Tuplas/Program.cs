@@ -34,4 +34,5 @@ Console.WriteLine($"A inclinação de {pt4} é {slopeResult}");
 public record Point(int X, int Y)
 {
     public double Slope() => (double)Y / (double)X;
+
 }
