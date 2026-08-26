@@ -19,3 +19,8 @@ var subscript = (A: 0, B: 0);
 Console.WriteLine(subscript);
 subscript = pt;
 Console.WriteLine(subscript);
+
+var dadosNomeados = (Nome: "Observações matinais", Temperatura: 17, Vento: 4);
+var pessoa = (PrimeiroNome: "", UltimoNome: "");
+var pedido = (Produto: "Palheta de guitarra", style: "Triangular", quantidade: 500, PrecoUnitario: 0.10m);
+Console.WriteLine(pedido.PrecoUnitario);
