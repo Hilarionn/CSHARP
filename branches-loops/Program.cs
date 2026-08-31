@@ -1,5 +1,7 @@
 ﻿//inicioif();
 //explorandoif();
+//loopwhile
+loopfor();
 
 
 void inicioif()
@@ -64,11 +66,20 @@ if ((a + b + c > 10) || (a > b)) // Se uma ou se outra, o primeiro bloco. Se cai
     }
 
 }
-
+void loopwhile(){
 int contador = 0;
 while (contador < 10)
 {
     Console.WriteLine($"O contador está em: {contador}");
     contador ++;
+
+}
+}
+void loopfor()
+{
+    for (int contador = 0; contador < 10; contador++)
+    {
+        Console.WriteLine($"O contador está em {contador}");
+    }
 
 }
