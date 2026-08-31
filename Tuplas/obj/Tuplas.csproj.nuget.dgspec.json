@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.hilarion\\CSHARP\\Tuplas\\Tuplas.csproj": {}
+    "C:\\Users\\Micro\\Desktop\\CSHARP\\Tuplas\\Tuplas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.hilarion\\CSHARP\\Tuplas\\Tuplas.csproj": {
+    "C:\\Users\\Micro\\Desktop\\CSHARP\\Tuplas\\Tuplas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.hilarion\\CSHARP\\Tuplas\\Tuplas.csproj",
+        "projectUniqueName": "C:\\Users\\Micro\\Desktop\\CSHARP\\Tuplas\\Tuplas.csproj",
         "projectName": "Tuplas",
-        "projectPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Tuplas\\Tuplas.csproj",
-        "packagesPath": "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Tuplas\\obj\\",
+        "projectPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\Tuplas\\Tuplas.csproj",
+        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\Tuplas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabriel.hilarion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
