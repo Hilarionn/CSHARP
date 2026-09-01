@@ -36,18 +36,16 @@ void SegundoDesafio()
 // Preciso imprimir espaço, a cada incremento, incrementar espaço
 int x,y;
 char caractere = '#';
-char espaco = '_';
-for (x = 1; x <= 5; x++)
+string espaco = " ";
+
+    
+for (x = 1; x <= 5; x ++)
     {
         for (y = 0; y < x; y++)
         {
+
             Console.Write(caractere);
         }
         Console.WriteLine();
-        Console.WriteLine(espaco);
     }
-
-
-
-
 }
