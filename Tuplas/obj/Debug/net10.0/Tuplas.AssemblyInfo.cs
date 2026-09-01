@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tuplas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9da722b3f7c6c84f76ee6745b47f13b326b847e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c2a541026b31451213981e7503e96f207b2acaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tuplas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tuplas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

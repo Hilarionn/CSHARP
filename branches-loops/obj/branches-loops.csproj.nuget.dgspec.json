@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micro\\Desktop\\CSHARP\\branches-loops\\branches-loops.csproj": {}
+    "C:\\Users\\gabriel.hilarion\\CSHARP\\branches-loops\\branches-loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micro\\Desktop\\CSHARP\\branches-loops\\branches-loops.csproj": {
+    "C:\\Users\\gabriel.hilarion\\CSHARP\\branches-loops\\branches-loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micro\\Desktop\\CSHARP\\branches-loops\\branches-loops.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.hilarion\\CSHARP\\branches-loops\\branches-loops.csproj",
         "projectName": "branches-loops",
-        "projectPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\branches-loops\\branches-loops.csproj",
-        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\branches-loops\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\branches-loops\\branches-loops.csproj",
+        "packagesPath": "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\branches-loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gabriel.hilarion\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

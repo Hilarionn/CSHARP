@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micro\\Desktop\\CSHARP\\Teste\\Teste.csproj": {}
+    "C:\\Users\\gabriel.hilarion\\CSHARP\\Teste\\Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micro\\Desktop\\CSHARP\\Teste\\Teste.csproj": {
+    "C:\\Users\\gabriel.hilarion\\CSHARP\\Teste\\Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micro\\Desktop\\CSHARP\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.hilarion\\CSHARP\\Teste\\Teste.csproj",
         "projectName": "Teste",
-        "projectPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\Teste\\Teste.csproj",
-        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\Teste\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Teste\\Teste.csproj",
+        "packagesPath": "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gabriel.hilarion\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
