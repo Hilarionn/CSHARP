@@ -7,8 +7,8 @@ Console.WriteLine("Hello, World!");
 // DEIXAR O USUÁRIO ESCOLHER O NÚMERO DA BASE
 //PIRÂMIDE EXATA, UTILIZANDO ESPAÇO
 
-//PrimeiroDesafio();
-//SegundoDesafio();
+PrimeiroDesafio();
+SegundoDesafio();
 TerceiroDesafio();
 
 void PrimeiroDesafio(){ 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("branches-loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+527c382d35647eedee27fdf4016e3d5b0226d9cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbc15aac0dee48c74b460b627457159a45f8e933")]
 [assembly: System.Reflection.AssemblyProductAttribute("branches-loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("branches-loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

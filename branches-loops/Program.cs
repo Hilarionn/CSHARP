@@ -2,7 +2,11 @@
 //explorandoif();
 //loopwhile
 //loopfor();
-testandomaisloops();
+//testandomaisloops();
+using System.ComponentModel;
+using System.Diagnostics.CodeAnalysis;
+
+Desafio();
 
 void inicioif()
 {
@@ -95,6 +99,9 @@ for (int linha = 1 ; linha < 11; linha++)
         }
     }
 
+
+
+}
 /*Agora que você usou a if instrução e os constructos de loop na linguagem C#, veja se você pode escrever código C# para encontrar a soma de todos os inteiros de 1 a 20 que são divisível por 3. Aqui estão algumas dicas:
 
 O operador % retorna o restante de uma operação de divisão.
@@ -104,6 +111,22 @@ Experimente você mesmo. Em seguida, verifique como você fez. Como dica, você 
 */
 
 
+
+void Desafio()
+{
+    
+// Encontrar a soma de todos os inteiros de 1 a 20 que são divisíveis por 3;
+int soma = 0;
+
+for (int numero = 1; numero < 21; numero++)
+    {
+        if (numero % 3 == 0)
+        {
+            soma = soma + numero;
+        }
+    }
+
+Console.WriteLine($"A soma é {soma}");
 
 
 
