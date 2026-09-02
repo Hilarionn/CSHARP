@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\": {}
+    "C:\\Users\\Micro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.hilarion\\CSHARP\\Piramides\\Piramides.csproj",
+      "projectUniqueName": "c:\\Users\\Micro\\Desktop\\CSHARP\\Piramides\\Piramides.csproj",
       "projectName": "Piramides",
-      "projectPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Piramides\\Piramides.csproj",
-      "packagesPath": "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Piramides\\obj\\",
+      "projectPath": "c:\\Users\\Micro\\Desktop\\CSHARP\\Piramides\\Piramides.csproj",
+      "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Micro\\Desktop\\CSHARP\\Piramides\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabriel.hilarion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

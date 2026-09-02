@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Piramides")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abe4c4dc9728456fb4ea4d32894cb61e47f62beb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a8190828bd08591092c6dd5521a51e811a112ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Piramides")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Piramides")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
