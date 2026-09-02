@@ -8,8 +8,8 @@ Console.WriteLine("Hello, World!");
 //PIRÂMIDE EXATA, UTILIZANDO ESPAÇO
 
 PrimeiroDesafio();
-SegundoDesafio();
-TerceiroDesafio();
+//SegundoDesafio();
+//TerceiroDesafio();
 
 void PrimeiroDesafio(){ 
 Console.WriteLine("Este é o primeiro desafio, imprimir uma pirâmide decrescente");
