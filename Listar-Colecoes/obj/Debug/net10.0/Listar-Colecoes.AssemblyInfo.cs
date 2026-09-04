@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Listar-Colecoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8701ff1590e92aac14a3305ff30fc14ac6e5e3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49b59974154cc90b5694bde57dffc84fd487f3c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Listar-Colecoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Listar-Colecoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

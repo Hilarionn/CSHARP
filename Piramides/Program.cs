@@ -7,9 +7,9 @@ Console.WriteLine("Hello, World!");
 // DEIXAR O USUÁRIO ESCOLHER O NÚMERO DA BASE
 //PIRÂMIDE EXATA, UTILIZANDO ESPAÇO
 
-PrimeiroDesafio();
+//PrimeiroDesafio();
 //SegundoDesafio();
-//TerceiroDesafio();
+TerceiroDesafio();
 
 void PrimeiroDesafio(){ 
 Console.WriteLine("Este é o primeiro desafio, imprimir uma pirâmide decrescente");
