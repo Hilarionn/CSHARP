@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.hilarion\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj": {}
+    "C:\\Users\\Micro\\Desktop\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.hilarion\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj": {
+    "C:\\Users\\Micro\\Desktop\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.hilarion\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj",
+        "projectUniqueName": "C:\\Users\\Micro\\Desktop\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj",
         "projectName": "Listar-Colecoes",
-        "projectPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj",
-        "packagesPath": "C:\\Users\\gabriel.hilarion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.hilarion\\CSHARP\\Listar-Colecoes\\obj\\",
+        "projectPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\Listar-Colecoes\\Listar-Colecoes.csproj",
+        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Micro\\Desktop\\CSHARP\\Listar-Colecoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabriel.hilarion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
